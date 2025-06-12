@@ -1,0 +1,19 @@
+{
+  "teachers": [
+    {
+      "name": "Teacher 1",
+      "email": "vuduthurinaveenreddy968@gmail.com",
+      "hours": [9, 10, 11, 12],
+      "report_time": "16:30"
+    },
+    {
+      "name": "Teacher 2",
+      "email": "bharathbalu780@gmail.com",
+      "hours": [13, 14, 15, 16],
+      "report_time": "16:30"
+    }
+  ]
+}
+
+
+
