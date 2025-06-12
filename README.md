@@ -201,7 +201,3 @@ FaceAttendance/
 ## 📝 Notes
 
 - The teacher report (sent daily) now includes a CSV file (with absent students for the current day) and a PNG summary chart.
-
-## 📄 License
-
-(Insert your license (e.g. MIT, Apache, etc.) or "All Rights Reserved" if applicable.) 
