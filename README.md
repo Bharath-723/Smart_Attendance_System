@@ -179,7 +179,7 @@ FaceAttendance/
 *Sample email notification sent to Teacher*
 
 ### 📈 Report List
-![Report_List](Report_List.png)
+![Report_List](Report_ist.png)
 *Daily teacher report with attendance summary and student list*
 
 ### 📈 Visual Representation
